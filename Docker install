@@ -10,7 +10,6 @@ After usermod, log out and back in (or use newgrp docker)
 
 docker --version
 docker info
-
 docker run hello-world
 
 docker run -d -p 8080:80 nginx
